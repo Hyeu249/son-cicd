@@ -1,0 +1,14 @@
+[
+  {
+    "url": "git@github.com:Techno-THT-Gmbh/citypetro-erp.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "git@github.com:Techno-THT-Gmbh/citypetro-hr.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "git@github.com:Techno-THT-Gmbh/citypetro-chat.git",
+    "branch": "main"
+  }
+]
